@@ -1,17 +1,15 @@
 ### Aim
 
-This project aims to create a tidy data set from the raw data provided in the data folder.
+This project aims to create a tidy data set from the raw data to facilitate Data Analysis.
 
 ### Data Set
 
 [Human Activity Recognition using Smartphones Data Sets](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
-The data is downloaded using the above link and the required data for analysis is identified and specified in the ```data``` folder 
-
 ### Files
 
-* ```CodeBook.md```: A codebook that describes the variables, data, and any transformations or work performed to clean up the data
+* ```CodeBook.md```: codebook that describes the variables, data, and any transformations or work performed to clean up the data
 
 * ```run_analysis.R```: The script which performs the required steps to tidy the data which are:
   - Merges the training and the test sets to create one data set.
